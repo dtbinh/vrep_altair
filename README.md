@@ -20,7 +20,7 @@ Make sure you have the same folder hierarchy as the following image.
 
 NOTE: dynamicsPlugin, meshCalculationPlugin and pathPlanningPlugin are optional
 
-Just open QTCreator, make sure you configure the project with the correct kit (Desktop, QT 5.2.1), run QMake and then build.
+Just open QTCreator, make sure you configure the project with the correct kit (Desktop, QT 5.2.1), modify the project file to reflect your library/include search path, run QMake and then build.
 
 Move libv_rep.so from the build folder into your main V-REP folder, then launch it.
 
