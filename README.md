@@ -26,6 +26,8 @@ Move libv_rep.so from the build folder into your main V-REP folder, then launch 
 
 Further reference can be found @ http://coppeliarobotics.com/helpFiles/en/compilingVrep.htm
 
+Check also my version of V-REP's [ROS plugin](https://github.com/hjeldin/vrep-ros).
+
 ### License
 
 V-REP is published under GNU GPL. 
